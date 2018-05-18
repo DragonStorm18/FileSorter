@@ -1,0 +1,8 @@
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\blair and elisa\documents\visual studio 2015\Projects\FileSorter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
